@@ -1,4 +1,4 @@
-FROM node:4.0.0
+FROM node:latest
 
 ENV NODE_ENV=docker
 
